@@ -1,2 +1,1 @@
-# stemp
-Salon Template
+# This turned into a MIT Licence fork. ahPeacce
