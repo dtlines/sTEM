@@ -1,1 +1,1 @@
-# This turned into a MIT Licence fork. ahPeacce
+# This turned into a MIT Licence fork by default. ahPeacce
